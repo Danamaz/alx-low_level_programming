@@ -1,7 +1,7 @@
 #include <stdlib.h>
 #include <time.h>
 #include <stdio.h>
-#include <cmath.c>
+#include <cmath.h>
 
 /**
  * main - Entry point
