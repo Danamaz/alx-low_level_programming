@@ -10,7 +10,7 @@
 int main(void)
 {
 	int i;
-	char m[] = "zywvutsrqponmlkjihgfedcba";
+	char m[] = "zyxwvutsrqponmlkjihgfedcba";
 
 	for (i = 0; m[i] != '\0'; i++)
 	{
