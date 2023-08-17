@@ -2,7 +2,7 @@
 #include <ctype.h>
 
 /**
- * _islower - checks if c is a letter
+ * _isalpha - checks if c is a letter
  *
  *@c: character to be checked
  *
