@@ -7,7 +7,7 @@
 
 int main(void)
 {
-	long long int n = 612852475143;
+	long long int n = 612852475144;
 	long int div = 2, maxFact;
 
 	while (n != 0)
