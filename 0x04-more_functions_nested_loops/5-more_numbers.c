@@ -8,15 +8,20 @@
 
 void more_numbers(void)
 {
-	int i,j;
+	int i,j,n;
+	char m[] = "1011121314";
+	char x[] = "0123456789";
 
 	for (j = 0; j <= 9; j++)
 	{
-	for (i = 0; i <= 14; i++)
+	for (i = 0; x[i] != '\0'; i++)
 	{
-	_putchar(i + '0');
+	_putchar(x[i]);
+	}
+	for (n = 0; m[n] != '\0'; n++)
+	{
+	_putchar(m[n]);
 	}
 	_putchar('\n');
 	}
-	_putchar('\n');
 }
