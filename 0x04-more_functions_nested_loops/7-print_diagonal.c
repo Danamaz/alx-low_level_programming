@@ -2,9 +2,8 @@
 #include <stdlib.h>
 
 /**
- *print_diagonal - it draws a diagonal  line 
+ *print_diagonal - it draws a diagonal  line
  *@n: value to work with
-
  *Return: Always 0.
  */
 
