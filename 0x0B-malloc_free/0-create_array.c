@@ -3,11 +3,19 @@
 #include <stdlib.h>
 
 /**
+<<<<<<< HEAD
  * create_array  - it creates an array of chars and initualizez it with a character
  * @size: size of space to allocate
  * @c: the character to fill the array with
  *
  * Return: it returns  the array after memory allocation
+=======
+ * create_array  - it creates an array of chars
+ * @size: size of space to allocate
+ * @c: the character to fill the array with
+ *
+ * Return: it returns  the array after allocation of space
+>>>>>>> 753c1c76c1683eeff75851f165b251cd7f4f910a
  */
 
 char *create_array(unsigned int size, char c)
