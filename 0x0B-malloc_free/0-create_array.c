@@ -3,11 +3,10 @@
 #include <stdlib.h>
 
 /**
- * create_array  - it creates an array of chars and initualizez it with a character
+ * create_array  - it creates an array of chars
  * @size: size of space to allocate
  * @c: the character to fill the array with
  *
- * Return: it returns  the array after memory allocation
  * create_array  - it creates an array of chars
  * @size: size of space to allocate
  * @c: the character to fill the array with
