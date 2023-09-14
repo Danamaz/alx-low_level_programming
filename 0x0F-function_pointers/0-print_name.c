@@ -3,7 +3,7 @@
 
 /**
  * print_name - a function that prints a name
- * @*name: A pointer to a string containing the name to print
+ * @name: A pointer to a string containing the name to print
  * @f: a pointer to a funtion that takes a pointer to character array
  */
 
