@@ -1,1 +1,1 @@
-Singly linkef list data structure
+Singly linked list data structure
